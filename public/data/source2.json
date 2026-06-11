@@ -1,0 +1,12 @@
+[
+    {
+        "property_id": 3,
+        "location": "New York",
+        "amount": 150000
+    },
+    {
+        "property_id": 4,
+        "location": "San Antonio",
+        "amount": 250000
+    }
+]

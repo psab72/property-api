@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "address": "Las Vegas",
+      "price": 100000
+    },
+    {
+      "id": 2,
+      "address": "Los Angeles",
+      "price": 200000
+    }
+  ]
