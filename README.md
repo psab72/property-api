@@ -49,11 +49,11 @@ GET /properties
 
 ## Run Project
 
-symfony server:start
+``` symfony server:start ```
 
 or 
 
-php -S localhost:8000 -t public
+``` php -S localhost:8000 -t public ```
 
 ## Notes 
  - No Database used
